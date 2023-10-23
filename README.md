@@ -6,7 +6,7 @@
 pip install pynput
 ```
 ```zsh
-python Autoclciker.py
+python Autoclicker.py
 ```
 
 #
